@@ -1,16 +1,20 @@
 body {
-    color: #F0F8FF;
+    background: url("https://images.pexels.com/photos/262713/pexels-photo-262713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 h1 {
-    font-family: 'Dancing Script', cursive;
-    font-size: 100px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 125px;
     text-align: center;
-    color:#B0C4DE
+    color:#F0F8FF
 }
 
 h3 {
-    font-family: 'Dancing Script', cursive;
-    font-size: 50px;
-    color: #B0C4DE;
+    font-family: 'Great Vibes', cursive;
+    font-size: 75px;
+    text-align: right;
+    color: #F0F8FF;
 }
